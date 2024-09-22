@@ -336,6 +336,4 @@ This layout makes it easy to visually parse the different sections and sub-secti
   ALTER SEQUENCE person_id_seq RESTART WITH 3;
   ```
 
----
 
-This structure should make your queries much easier to understand and navigate!
