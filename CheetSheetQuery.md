@@ -1,6 +1,3 @@
-Here’s a reorganized and structured README with the provided queries, explained in a clear, readable, and well-formatted way:
-
----
 
 # PostgreSQL SQL Queries Cheat Sheet
 
