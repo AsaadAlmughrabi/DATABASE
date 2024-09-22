@@ -3,42 +3,39 @@
 
 ## Table of Contents
 
-- [Retrieving Data](#retrieving-data)
-  - [Selecting Columns](#selecting-columns)
-  - [Ordering Results](#ordering-results)
-  - [Removing Duplicates](#removing-duplicates)
-  - [Filtering Results with WHERE](#filtering-results-with-where)
-  - [Using Comparisons](#using-comparisons)
-  - [LIMIT and OFFSET](#limit-and-offset)
-- [Working with Multiple Values](#working-with-multiple-values)
-  - [IN Clause](#in-clause)
-  - [BETWEEN Clause](#between-clause)
-  - [LIKE and ILIKE](#like-and-ilike)
-- [Grouping and Aggregating Data](#grouping-and-aggregating-data)
-  - [GROUP BY](#group-by)
-  - [HAVING Clause](#having-clause)
-  - [Aggregation Functions](#aggregation-functions)
-- [Handling NULL Values](#handling-null-values)
-  - [COALESCE](#coalesce)
-  - [NULLIF](#nullif)
-- [Date and Time Functions](#date-and-time-functions)
-  - [NOW()](#now)
-  - [EXTRACT](#extract)
-  - [AGE](#age)
-  - [INTERVAL](#interval)
-- [Modifying Data](#modifying-data)
-  - [DELETE](#delete)
-  - [UPDATE](#update)
-  - [ON CONFLICT](#on-conflict)
-- [Working with Keys](#working-with-keys)
-  - [Primary Key](#primary-key)
-  - [Foreign Key](#foreign-key)
-- [Joining Tables](#joining-tables)
-  - [INNER JOIN](#inner-join)
-  - [LEFT JOIN](#left-join)
-- [Advanced](#advanced)
-  - [Exporting Data to CSV](#exporting-data-to-csv)
-  - [Sequence Operations](#sequence-operations)
+Here’s the content reformatted as a table:
+
+| **Section**                         | **Sub-sections**                                                        |
+|--------------------------------------|-------------------------------------------------------------------------|
+| **Retrieving Data**                  | [Selecting Columns](#selecting-columns)                                 |
+|                                      | [Ordering Results](#ordering-results)                                   |
+|                                      | [Removing Duplicates](#removing-duplicates)                             |
+|                                      | [Filtering Results with WHERE](#filtering-results-with-where)           |
+|                                      | &nbsp;&nbsp;&nbsp;&nbsp;[Using Comparisons](#using-comparisons)         |
+|                                      | [LIMIT and OFFSET](#limit-and-offset)                                   |
+| **Working with Multiple Values**     | [IN Clause](#in-clause)                                                 |
+|                                      | [BETWEEN Clause](#between-clause)                                       |
+|                                      | [LIKE and ILIKE](#like-and-ilike)                                       |
+| **Grouping and Aggregating Data**    | [GROUP BY](#group-by)                                                   |
+|                                      | [HAVING Clause](#having-clause)                                         |
+|                                      | [Aggregation Functions](#aggregation-functions)                         |
+| **Handling NULL Values**             | [COALESCE](#coalesce)                                                   |
+|                                      | [NULLIF](#nullif)                                                       |
+| **Date and Time Functions**          | [NOW()](#now)                                                           |
+|                                      | [EXTRACT](#extract)                                                     |
+|                                      | [AGE](#age)                                                             |
+|                                      | [INTERVAL](#interval)                                                   |
+| **Modifying Data**                   | [DELETE](#delete)                                                       |
+|                                      | [UPDATE](#update)                                                       |
+|                                      | [ON CONFLICT](#on-conflict)                                             |
+| **Working with Keys**                | [Primary Key](#primary-key)                                             |
+|                                      | [Foreign Key](#foreign-key)                                             |
+| **Joining Tables**                   | [INNER JOIN](#inner-join)                                               |
+|                                      | [LEFT JOIN](#left-join)                                                 |
+| **Advanced**                         | [Exporting Data to CSV](#exporting-data-to-csv)                         |
+|                                      | [Sequence Operations](#sequence-operations)                             |
+
+This layout makes it easy to visually parse the different sections and sub-sections as a table.
 
 ---
 
