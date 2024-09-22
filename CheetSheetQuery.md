@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-Here’s the content reformatted as a table:
+
 
 | **Section**                         | **Sub-sections**                                                        |
 |--------------------------------------|-------------------------------------------------------------------------|
