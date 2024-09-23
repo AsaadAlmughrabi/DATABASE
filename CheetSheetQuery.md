@@ -35,7 +35,6 @@
 | **Advanced**                         | [Exporting Data to CSV](#exporting-data-to-csv)                         |
 |                                      | [Sequence Operations](#sequence-operations)                             |
 
-This layout makes it easy to visually parse the different sections and sub-sections as a table.
 
 ---
 
